@@ -434,6 +434,73 @@ The results suggest:
 
 The broader argument is that monumental architecture turns abstract authority into scale, duration, spatial occupation, visibility, and durable presence. Cathedrals, castles, and pyramids were historically different, but all used built form to make power materially and psychologically legible.
 
+## Key data sources and references
+
+The repository draws on publicly available datasets and prior scholarship on
+monumental architecture, historical construction, landscape, and digital
+humanities. The full bibliography appears in the accompanying manuscript.
+
+### Principal datasets
+
+- Buringh, E., Campbell, B. M., Rijpma, A., and van Zanden, J. L. (2020).
+  “Church Building and the Economy during Europe’s ‘Age of the Cathedrals’,
+  700–1500 CE.” *Explorations in Economic History*, 76, 101316.
+
+- Rijpma, A., Buringh, E., and van Zanden, J. L. (2019).
+  *Church Building in Western Europe, 700–1500 CE* [Data set]. openICPSR.
+
+- Chemkaeva, D. (2019).
+  *OpenStreetMap of Pyramids of Ancient Egypt* [Dataset and code repository].
+  GitHub.
+
+### Monumentality and digital humanities
+
+- Münster, S., and Terras, M. (2020).
+  “The Visual Side of Digital Humanities: A Survey on Topics, Researchers,
+  and Epistemic Cultures.” *Digital Scholarship in the Humanities*, 35(2),
+  366–389.
+
+- Osborne, J. F. (Ed.). (2014).
+  *Approaching Monumentality in Archaeology*. State University of New York
+  Press.
+
+- Trigger, B. G. (1990).
+  “Monumental Architecture: A Thermodynamic Explanation of Symbolic
+  Behaviour.” *World Archaeology*, 22(2), 119–132.
+
+- Stanish, C., Earle, T., García Sanjuán, L., Tantaleán, H., and Barrientos, G.
+  (2024). “Early Monumentality, Ritual, and Political Complexity: Formative
+  Peru and Copper Age Iberia.” *Current Anthropology*, 65(5), 810–836.
+
+### Spatial and architectural context
+
+- Oulmas, M., Abdessemed-Foufa, A., Avilés, A. B. G., and Conesa, J. I. P.
+  (2023). “Assessing the Defensibility of Medieval Fortresses on the
+  Mediterranean Coast.” *ISPRS International Journal of Geo-Information*,
+  13(1), 2.
+
+- Magli, G. (2009).
+  “Geometry and Perspective in the Landscape of the Saqqara Pyramids.”
+  arXiv.
+
+- Magli, G. (2010).
+  *Architecture, Astronomy and Sacred Landscape in Ancient Egypt*.
+  Cambridge University Press.
+
+- Lehner, M. (1997).
+  *The Complete Pyramids*. Thames & Hudson.
+
+- Verner, M. (2001).
+  *The Pyramids: Their Archaeology and History*. Atlantic Books.
+
+### Castle history and chronology
+
+- Brown, R. A. (1962). *English Castles*. B. T. Batsford.
+- Pounds, N. J. G. (1994). *The Medieval Castle in England and Wales*.
+  Cambridge University Press.
+- Creighton, O. H. (2005). *Castles and Landscapes*. Equinox.
+- Liddiard, R. (2005). *Castles in Context*. Windgather Press.
+
 ## Authors
 
 **Jeevesh Attri**\
