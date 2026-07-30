@@ -1,0 +1,21 @@
+model,outer_fold,inner_best_balanced_accuracy,selected_parameters
+Majority-class baseline,1,0.3333333333333333,{}
+Majority-class baseline,2,0.3333333333333333,{}
+Majority-class baseline,3,0.3333333333333333,{}
+Majority-class baseline,4,0.3333333333333333,{}
+Majority-class baseline,5,0.3333333333333333,{}
+"RBF SVM, class weighted",1,0.7585227532719502,"{""model__C"": 100, ""model__gamma"": 0.1}"
+"RBF SVM, class weighted",2,0.6984217431709402,"{""model__C"": 100, ""model__gamma"": 0.1}"
+"RBF SVM, class weighted",3,0.7309488510007413,"{""model__C"": 1000, ""model__gamma"": 0.01}"
+"RBF SVM, class weighted",4,0.7796824808500125,"{""model__C"": 100, ""model__gamma"": 0.1}"
+"RBF SVM, class weighted",5,0.7339444398685813,"{""model__C"": 1000, ""model__gamma"": 0.01}"
+"Random forest, class weighted",1,0.7626302561069055,"{""max_depth"": 8, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 300}"
+"Random forest, class weighted",2,0.7534687331265043,"{""max_depth"": 5, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 500}"
+"Random forest, class weighted",3,0.761991507197833,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 500}"
+"Random forest, class weighted",4,0.7873825147114003,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 10, ""n_estimators"": 300}"
+"Random forest, class weighted",5,0.7626637015072893,"{""max_depth"": 5, ""max_features"": ""sqrt"", ""min_samples_leaf"": 10, ""n_estimators"": 300}"
+Gradient boosting,1,0.7265506976527485,"{""learning_rate"": 0.1, ""max_depth"": 1, ""min_samples_leaf"": 10, ""n_estimators"": 200}"
+Gradient boosting,2,0.7034960843090322,"{""learning_rate"": 0.1, ""max_depth"": 1, ""min_samples_leaf"": 5, ""n_estimators"": 200}"
+Gradient boosting,3,0.7183688669913034,"{""learning_rate"": 0.1, ""max_depth"": 1, ""min_samples_leaf"": 10, ""n_estimators"": 200}"
+Gradient boosting,4,0.7183420981913692,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 10, ""n_estimators"": 200}"
+Gradient boosting,5,0.7084982724036344,"{""learning_rate"": 0.1, ""max_depth"": 1, ""min_samples_leaf"": 10, ""n_estimators"": 100}"

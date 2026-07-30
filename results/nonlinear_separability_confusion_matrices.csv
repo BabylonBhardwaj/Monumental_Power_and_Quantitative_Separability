@@ -1,0 +1,37 @@
+model,true_class,predicted_class,count
+Majority-class baseline,cathedral,cathedral,268
+Majority-class baseline,cathedral,castle,0
+Majority-class baseline,cathedral,pyramid,0
+Majority-class baseline,castle,cathedral,72
+Majority-class baseline,castle,castle,0
+Majority-class baseline,castle,pyramid,0
+Majority-class baseline,pyramid,cathedral,43
+Majority-class baseline,pyramid,castle,0
+Majority-class baseline,pyramid,pyramid,0
+"RBF SVM, class weighted",cathedral,cathedral,201
+"RBF SVM, class weighted",cathedral,castle,42
+"RBF SVM, class weighted",cathedral,pyramid,25
+"RBF SVM, class weighted",castle,cathedral,29
+"RBF SVM, class weighted",castle,castle,36
+"RBF SVM, class weighted",castle,pyramid,7
+"RBF SVM, class weighted",pyramid,cathedral,0
+"RBF SVM, class weighted",pyramid,castle,1
+"RBF SVM, class weighted",pyramid,pyramid,42
+"Random forest, class weighted",cathedral,cathedral,214
+"Random forest, class weighted",cathedral,castle,37
+"Random forest, class weighted",cathedral,pyramid,17
+"Random forest, class weighted",castle,cathedral,25
+"Random forest, class weighted",castle,castle,42
+"Random forest, class weighted",castle,pyramid,5
+"Random forest, class weighted",pyramid,cathedral,0
+"Random forest, class weighted",pyramid,castle,3
+"Random forest, class weighted",pyramid,pyramid,40
+Gradient boosting,cathedral,cathedral,250
+Gradient boosting,cathedral,castle,10
+Gradient boosting,cathedral,pyramid,8
+Gradient boosting,castle,cathedral,39
+Gradient boosting,castle,castle,29
+Gradient boosting,castle,pyramid,4
+Gradient boosting,pyramid,cathedral,8
+Gradient boosting,pyramid,castle,2
+Gradient boosting,pyramid,pyramid,33
