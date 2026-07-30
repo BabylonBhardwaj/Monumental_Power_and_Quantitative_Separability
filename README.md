@@ -49,7 +49,7 @@ The strongest linear model by balanced accuracy was class-weighted logistic regr
 -   34 of 72 castles; and
 -   all 43 pyramids.
 
-Repeated undersampling checks produced balanced accuracies of approximately **0.66–0.69**, indicating that the observed linear separability was not simply an artifact of cathedral dominance.
+Repeated undersampling checks produced balanced accuracies of approximately **0.66-0.69**, indicating that the observed linear separability was not simply an artifact of cathedral dominance.
 
 ### Nonlinear separability
 
@@ -444,10 +444,10 @@ humanities. The full bibliography appears in the accompanying manuscript.
 
 - Buringh, E., Campbell, B. M., Rijpma, A., and van Zanden, J. L. (2020).
   “Church Building and the Economy during Europe’s ‘Age of the Cathedrals’,
-  700–1500 CE.” *Explorations in Economic History*, 76, 101316.
+  700-1500 CE.” *Explorations in Economic History*, 76, 101316.
 
 - Rijpma, A., Buringh, E., and van Zanden, J. L. (2019).
-  *Church Building in Western Europe, 700–1500 CE* [Data set]. openICPSR.
+  *Church Building in Western Europe, 700-1500 CE* [Data set]. openICPSR.
 
 - Chemkaeva, D. (2019).
   *OpenStreetMap of Pyramids of Ancient Egypt* [Dataset and code repository].
@@ -458,7 +458,7 @@ humanities. The full bibliography appears in the accompanying manuscript.
 - Münster, S., and Terras, M. (2020).
   “The Visual Side of Digital Humanities: A Survey on Topics, Researchers,
   and Epistemic Cultures.” *Digital Scholarship in the Humanities*, 35(2),
-  366–389.
+  366-389.
 
 - Osborne, J. F. (Ed.). (2014).
   *Approaching Monumentality in Archaeology*. State University of New York
@@ -466,11 +466,11 @@ humanities. The full bibliography appears in the accompanying manuscript.
 
 - Trigger, B. G. (1990).
   “Monumental Architecture: A Thermodynamic Explanation of Symbolic
-  Behaviour.” *World Archaeology*, 22(2), 119–132.
+  Behaviour.” *World Archaeology*, 22(2), 119-132.
 
 - Stanish, C., Earle, T., García Sanjuán, L., Tantaleán, H., and Barrientos, G.
   (2024). “Early Monumentality, Ritual, and Political Complexity: Formative
-  Peru and Copper Age Iberia.” *Current Anthropology*, 65(5), 810–836.
+  Peru and Copper Age Iberia.” *Current Anthropology*, 65(5), 810-836.
 
 ### Spatial and architectural context
 
