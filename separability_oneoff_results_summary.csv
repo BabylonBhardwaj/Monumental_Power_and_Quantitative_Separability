@@ -1,0 +1,16 @@
+model,accuracy,balanced_accuracy,macro_f1,test_set
+Majority-class baseline,0.6997265892002733,0.3333333333333333,0.27444621969741795,full_complete_case
+"Logistic regression, unweighted",0.7231373889268625,0.4805953212871451,0.47155655096599647,full_complete_case
+"Logistic regression, class weighted",0.600580997949419,0.6814907989750757,0.554531500582401,full_complete_case
+"Linear SVM, unweighted",0.7153793574846207,0.41159678546471,0.3935940734008812,full_complete_case
+"Linear SVM, class weighted",0.6866712235133288,0.6437443013543642,0.5484998597752221,full_complete_case
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,oneoff_all_classes_to_minimum
+"Logistic regression, unweighted",0.6815384615384616,0.6796296296296297,0.655395223896368,oneoff_all_classes_to_minimum
+"Logistic regression, class weighted",0.6815384615384616,0.6796296296296297,0.655395223896368,oneoff_all_classes_to_minimum
+"Linear SVM, unweighted",0.7046153846153846,0.7037037037037036,0.6800802865690468,oneoff_all_classes_to_minimum
+"Linear SVM, class weighted",0.7046153846153846,0.7037037037037036,0.6800802865690468,oneoff_all_classes_to_minimum
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,oneoff_cathedrals_to_castles_keep_pyramids
+"Logistic regression, unweighted",0.59900426742532,0.646031746031746,0.6080775780230263,oneoff_cathedrals_to_castles_keep_pyramids
+"Logistic regression, class weighted",0.5990042674253201,0.6539682539682539,0.6030374033684484,oneoff_cathedrals_to_castles_keep_pyramids
+"Linear SVM, unweighted",0.598719772403983,0.6513227513227513,0.6112725124099436,oneoff_cathedrals_to_castles_keep_pyramids
+"Linear SVM, class weighted",0.6041251778093883,0.6584126984126983,0.6109207026552566,oneoff_cathedrals_to_castles_keep_pyramids

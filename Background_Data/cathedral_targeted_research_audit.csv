@@ -1,0 +1,26 @@
+target,city,country,status,row_index,column,old_value,new_value,source
+St. Petri-Dom,Bremen,de,updated,88,height_m,98.0,98.0,SkyDB / Bremen tourism: St. Petri Dom twin spires around 98m
+St. Petri-Dom,Bremen,de,updated,88,height_m_wikidata,98.0,98.0,SkyDB / Bremen tourism: St. Petri Dom twin spires around 98m
+St. Petri-Dom,Bremen,de,updated,88,height_source,wikidata_p2048_filled_missing,targeted_source_checked,SkyDB / Bremen tourism: St. Petri Dom twin spires around 98m
+Dom,Paderborn,de,updated,111,height_m,93.0,93.0,Paderborn Cathedral sources: tower 93m
+Dom,Paderborn,de,updated,111,height_m_wikidata,93.0,93.0,Paderborn Cathedral sources: tower 93m
+Dom,Paderborn,de,updated,111,height_source,wikidata_p2048_filled_missing,targeted_source_checked,Paderborn Cathedral sources: tower 93m
+Cathédrale Sainte-Cécile d'Albi,Albi,fr,updated,113,height_m,78.0,78.0,Albi Cathedral infobox/current web data: height 78m
+Cathédrale Sainte-Cécile d'Albi,Albi,fr,updated,113,height_m_wikidata,78.0,78.0,Albi Cathedral infobox/current web data: height 78m
+Cathédrale Sainte-Cécile d'Albi,Albi,fr,updated,113,height_source,wikidata_p2048_filled_missing,targeted_source_checked,Albi Cathedral infobox/current web data: height 78m
+Duomo di Monza,Monza,it,updated,226,end_year,1700,1681,Duomo of Monza infobox: year completed 1681
+Duomo di Monza,Monza,it,updated,226,end_year_wikipedia_infobox,1700.0,1681,Duomo of Monza infobox: year completed 1681
+Duomo di Monza,Monza,it,updated,226,end_year_wikipedia_final,1700.0,1681,Duomo of Monza infobox: year completed 1681
+Duomo di Monza,Monza,it,updated,226,end_year_source,wikipedia_final_replaced,targeted_source_checked,Duomo of Monza infobox: year completed 1681
+Duomo di Monza,Monza,it,updated,226,wikipedia_date_notes,current_end:completata nel 1620 ,,Duomo of Monza infobox: year completed 1681
+Cattedrale di Sant'Agata,Catania,it,updated,238,start_year,1572,1086,Catania Cathedral sources: first building/construction in the 1086-1094 range
+Cattedrale di Sant'Agata,Catania,it,updated,238,start_year_wikipedia_earliest,1572.0,1086,Catania Cathedral sources: first building/construction in the 1086-1094 range
+Cattedrale di Sant'Agata,Catania,it,updated,238,start_year_wikipedia_final,1572.0,1086,Catania Cathedral sources: first building/construction in the 1086-1094 range
+Cattedrale di Sant'Agata,Catania,it,updated,238,start_year_source,wikipedia_final_replaced,targeted_source_checked,Catania Cathedral sources: first building/construction in the 1086-1094 range
+Cattedrale di Sant'Agata,Catania,it,updated,238,wikipedia_date_notes,earliest:risale al 1802 su progetto di carmelo battaglia su commissione del vescovo corrado maria deodato moncada  | earliest:risale al 1572 | earliest:risale al 1802 su progetto di carmelo battaglia su commissione del vescovo corrado maria deodato moncada  | earliest:risale al 1572,earliest: risale al periodo 1086-1094; targeted source-checked,Catania Cathedral sources: first building/construction in the 1086-1094 range
+Sankt-Petri-Dom zu Schleswig,Schleswig (hedeby),de,updated,262,height_m,112.0,112.0,Schleswig Cathedral sources: central/western tower 112m
+Sankt-Petri-Dom zu Schleswig,Schleswig (hedeby),de,updated,262,height_m_wikidata,112.0,112.0,Schleswig Cathedral sources: central/western tower 112m
+Sankt-Petri-Dom zu Schleswig,Schleswig (hedeby),de,updated,262,height_source,wikidata_p2048_filled_missing,targeted_source_checked,Schleswig Cathedral sources: central/western tower 112m
+Dom Mariä Himmelfahrt,Hildesheim,de,updated,295,surface_m2,,5800.0,Hildesheim Cathedral UNESCO/Wikipedia area: 0.58ha = 5800m²
+Dom Mariä Himmelfahrt,Hildesheim,de,updated,295,surface_m2_wikidata,,5800.0,Hildesheim Cathedral UNESCO/Wikipedia area: 0.58ha = 5800m²
+Dom Mariä Himmelfahrt,Hildesheim,de,updated,295,surface_source,missing,targeted_source_checked,Hildesheim Cathedral UNESCO/Wikipedia area: 0.58ha = 5800m²

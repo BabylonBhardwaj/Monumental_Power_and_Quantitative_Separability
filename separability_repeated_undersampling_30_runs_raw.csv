@@ -1,0 +1,301 @@
+model,accuracy,balanced_accuracy,macro_f1,test_set,repeat
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,0
+"Logistic regression, unweighted",0.7126153846153847,0.712037037037037,0.6950796817387206,all_classes_to_minimum,0
+"Logistic regression, class weighted",0.7126153846153847,0.712037037037037,0.6950796817387206,all_classes_to_minimum,0
+"Linear SVM, unweighted",0.7203076923076923,0.7194444444444444,0.7015781409279861,all_classes_to_minimum,0
+"Linear SVM, class weighted",0.7126153846153847,0.712037037037037,0.6940618010587051,all_classes_to_minimum,0
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,0
+"Logistic regression, unweighted",0.678520625889047,0.7196825396825397,0.6758631586184187,cathedrals_to_castles_keep_pyramids,0
+"Logistic regression, class weighted",0.6627311522048365,0.7063492063492063,0.6578595197452147,cathedrals_to_castles_keep_pyramids,0
+"Linear SVM, unweighted",0.6837837837837839,0.7244444444444444,0.6808093951775585,cathedrals_to_castles_keep_pyramids,0
+"Linear SVM, class weighted",0.6627311522048365,0.7066666666666667,0.6571014885044248,cathedrals_to_castles_keep_pyramids,0
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,1
+"Logistic regression, unweighted",0.6587692307692308,0.662037037037037,0.6333276951233608,all_classes_to_minimum,1
+"Logistic regression, class weighted",0.6587692307692308,0.662037037037037,0.6333276951233608,all_classes_to_minimum,1
+"Linear SVM, unweighted",0.6664615384615385,0.6703703703703704,0.6397860515817173,all_classes_to_minimum,1
+"Linear SVM, class weighted",0.6587692307692308,0.662037037037037,0.6337025925570818,all_classes_to_minimum,1
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,1
+"Logistic regression, unweighted",0.6092460881934565,0.6491269841269841,0.6158901717817098,cathedrals_to_castles_keep_pyramids,1
+"Logistic regression, class weighted",0.5984352773826458,0.6514285714285715,0.600042328042328,cathedrals_to_castles_keep_pyramids,1
+"Linear SVM, unweighted",0.6254623044096729,0.66994708994709,0.6331168583099884,cathedrals_to_castles_keep_pyramids,1
+"Linear SVM, class weighted",0.614651493598862,0.6657142857142857,0.6167595019909186,cathedrals_to_castles_keep_pyramids,1
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,2
+"Logistic regression, unweighted",0.5667692307692307,0.5712962962962963,0.5252273468991735,all_classes_to_minimum,2
+"Logistic regression, class weighted",0.5824615384615385,0.5842592592592593,0.5434227279428518,all_classes_to_minimum,2
+"Linear SVM, unweighted",0.5821538461538461,0.5842592592592593,0.5453231151373565,all_classes_to_minimum,2
+"Linear SVM, class weighted",0.5741538461538461,0.575,0.5314703012845428,all_classes_to_minimum,2
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,2
+"Logistic regression, unweighted",0.6093883357041252,0.6485714285714286,0.6215890948200922,cathedrals_to_castles_keep_pyramids,2
+"Logistic regression, class weighted",0.6150782361308678,0.6673015873015873,0.6240643822420846,cathedrals_to_castles_keep_pyramids,2
+"Linear SVM, unweighted",0.6093883357041252,0.6485714285714286,0.6211986537199736,cathedrals_to_castles_keep_pyramids,2
+"Linear SVM, class weighted",0.6150782361308678,0.6676190476190476,0.6238201819978842,cathedrals_to_castles_keep_pyramids,2
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,3
+"Logistic regression, unweighted",0.6667692307692308,0.6657407407407407,0.6456332637763518,all_classes_to_minimum,3
+"Logistic regression, class weighted",0.6667692307692308,0.6657407407407407,0.6456332637763518,all_classes_to_minimum,3
+"Linear SVM, unweighted",0.6821538461538461,0.6805555555555556,0.6519721019721019,all_classes_to_minimum,3
+"Linear SVM, class weighted",0.6821538461538461,0.6805555555555556,0.6519721019721019,all_classes_to_minimum,3
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,3
+"Logistic regression, unweighted",0.62574679943101,0.6660846560846561,0.6382260661783803,cathedrals_to_castles_keep_pyramids,3
+"Logistic regression, class weighted",0.6256045519203414,0.6758730158730158,0.6364413213740248,cathedrals_to_castles_keep_pyramids,3
+"Linear SVM, unweighted",0.641678520625889,0.6895238095238094,0.6527108028319121,cathedrals_to_castles_keep_pyramids,3
+"Linear SVM, class weighted",0.641678520625889,0.6895238095238094,0.6524031105242197,cathedrals_to_castles_keep_pyramids,3
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,4
+"Logistic regression, unweighted",0.6584615384615385,0.6601851851851851,0.6325427070349671,all_classes_to_minimum,4
+"Logistic regression, class weighted",0.6584615384615385,0.6592592592592592,0.6329923010139729,all_classes_to_minimum,4
+"Linear SVM, unweighted",0.6504615384615385,0.6527777777777779,0.6232523242151725,all_classes_to_minimum,4
+"Linear SVM, class weighted",0.6584615384615385,0.6601851851851852,0.6318237527866011,all_classes_to_minimum,4
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,4
+"Logistic regression, unweighted",0.6096728307254623,0.6537037037037037,0.626247561171173,cathedrals_to_castles_keep_pyramids,4
+"Logistic regression, class weighted",0.6203413940256045,0.6726984126984126,0.6316223776223777,cathedrals_to_castles_keep_pyramids,4
+"Linear SVM, unweighted",0.6526315789473685,0.7003174603174603,0.661853816681403,cathedrals_to_castles_keep_pyramids,4
+"Linear SVM, class weighted",0.6470839260312944,0.6952380952380952,0.6553003701279564,cathedrals_to_castles_keep_pyramids,4
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,5
+"Logistic regression, unweighted",0.6276923076923077,0.625,0.5997298932004813,all_classes_to_minimum,5
+"Logistic regression, class weighted",0.6353846153846153,0.6324074074074074,0.6071860335513586,all_classes_to_minimum,5
+"Linear SVM, unweighted",0.6430769230769231,0.638888888888889,0.6098496274966863,all_classes_to_minimum,5
+"Linear SVM, class weighted",0.6430769230769231,0.638888888888889,0.6098496274966863,all_classes_to_minimum,5
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,5
+"Logistic regression, unweighted",0.6522048364153628,0.6865873015873015,0.6605520073795935,cathedrals_to_castles_keep_pyramids,5
+"Logistic regression, class weighted",0.6523470839260314,0.6987301587301586,0.6583268077023847,cathedrals_to_castles_keep_pyramids,5
+"Linear SVM, unweighted",0.6469416785206259,0.6860317460317459,0.6546521298897758,cathedrals_to_castles_keep_pyramids,5
+"Linear SVM, class weighted",0.6576102418207681,0.7031746031746031,0.6626240536662973,cathedrals_to_castles_keep_pyramids,5
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,6
+"Logistic regression, unweighted",0.6972307692307693,0.6962962962962963,0.6752314395843808,all_classes_to_minimum,6
+"Logistic regression, class weighted",0.6818461538461539,0.6796296296296296,0.6570722784840431,all_classes_to_minimum,6
+"Linear SVM, unweighted",0.6975384615384616,0.6962962962962963,0.6779792215581689,all_classes_to_minimum,6
+"Linear SVM, class weighted",0.6975384615384616,0.6962962962962963,0.6779792215581689,all_classes_to_minimum,6
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,6
+"Logistic regression, unweighted",0.6463726884779516,0.6847883597883598,0.6495351547488061,cathedrals_to_castles_keep_pyramids,6
+"Logistic regression, class weighted",0.6359886201991465,0.6841269841269841,0.6348341177289284,cathedrals_to_castles_keep_pyramids,6
+"Linear SVM, unweighted",0.6307254623044096,0.6770370370370371,0.6346825377117498,cathedrals_to_castles_keep_pyramids,6
+"Linear SVM, class weighted",0.6305832147937411,0.6793650793650794,0.6280731804427457,cathedrals_to_castles_keep_pyramids,6
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,7
+"Logistic regression, unweighted",0.6738461538461539,0.6703703703703704,0.6369497461602726,all_classes_to_minimum,7
+"Logistic regression, class weighted",0.6738461538461539,0.6703703703703704,0.6369497461602726,all_classes_to_minimum,7
+"Linear SVM, unweighted",0.6661538461538462,0.662962962962963,0.6302213868003342,all_classes_to_minimum,7
+"Linear SVM, class weighted",0.6738461538461539,0.6703703703703704,0.6383166248955723,all_classes_to_minimum,7
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,7
+"Logistic regression, unweighted",0.6631578947368422,0.7046560846560845,0.6715909479617773,cathedrals_to_castles_keep_pyramids,7
+"Logistic regression, class weighted",0.6577524893314367,0.7028571428571428,0.6601222654018756,cathedrals_to_castles_keep_pyramids,7
+"Linear SVM, unweighted",0.6576102418207681,0.7034920634920634,0.6638980386574825,cathedrals_to_castles_keep_pyramids,7
+"Linear SVM, class weighted",0.6576102418207681,0.7034920634920634,0.6606395371892624,cathedrals_to_castles_keep_pyramids,7
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,8
+"Logistic regression, unweighted",0.6895384615384617,0.6888888888888889,0.6706564677152913,all_classes_to_minimum,8
+"Logistic regression, class weighted",0.6895384615384617,0.6888888888888889,0.6706564677152913,all_classes_to_minimum,8
+"Linear SVM, unweighted",0.6818461538461539,0.6814814814814815,0.660858770858771,all_classes_to_minimum,8
+"Linear SVM, class weighted",0.6818461538461539,0.6814814814814815,0.660858770858771,all_classes_to_minimum,8
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,8
+"Logistic regression, unweighted",0.673968705547653,0.71,0.6797728476469447,cathedrals_to_castles_keep_pyramids,8
+"Logistic regression, class weighted",0.6526315789473685,0.6987301587301589,0.6550363776560678,cathedrals_to_castles_keep_pyramids,8
+"Linear SVM, unweighted",0.6685633001422475,0.704920634920635,0.6729095385607471,cathedrals_to_castles_keep_pyramids,8
+"Linear SVM, class weighted",0.6633001422475108,0.707936507936508,0.6642231891417298,cathedrals_to_castles_keep_pyramids,8
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,9
+"Logistic regression, unweighted",0.6587692307692308,0.6601851851851852,0.6247919624235414,all_classes_to_minimum,9
+"Logistic regression, class weighted",0.6587692307692308,0.6601851851851852,0.6247919624235414,all_classes_to_minimum,9
+"Linear SVM, unweighted",0.636,0.637962962962963,0.6026072478246391,all_classes_to_minimum,9
+"Linear SVM, class weighted",0.636,0.637962962962963,0.6026072478246391,all_classes_to_minimum,9
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,9
+"Logistic regression, unweighted",0.6742532005689901,0.7085714285714285,0.6746875264348107,cathedrals_to_castles_keep_pyramids,9
+"Logistic regression, class weighted",0.6475106685633001,0.6936507936507936,0.6431736165069498,cathedrals_to_castles_keep_pyramids,9
+"Linear SVM, unweighted",0.6475106685633002,0.6857142857142857,0.6496169458701876,cathedrals_to_castles_keep_pyramids,9
+"Linear SVM, class weighted",0.6423897581792318,0.6888888888888889,0.638824210227719,cathedrals_to_castles_keep_pyramids,9
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,10
+"Logistic regression, unweighted",0.6747692307692306,0.6768518518518517,0.651940645640336,all_classes_to_minimum,10
+"Logistic regression, class weighted",0.6747692307692306,0.6759259259259258,0.6511469948466853,all_classes_to_minimum,10
+"Linear SVM, unweighted",0.6907692307692306,0.6916666666666667,0.6680782117779022,all_classes_to_minimum,10
+"Linear SVM, class weighted",0.6907692307692306,0.6916666666666667,0.6680782117779022,all_classes_to_minimum,10
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,10
+"Logistic regression, unweighted",0.6578947368421053,0.7008465608465608,0.663655038458847,cathedrals_to_castles_keep_pyramids,10
+"Logistic regression, class weighted",0.6527738264580369,0.6990476190476189,0.6528414923777243,cathedrals_to_castles_keep_pyramids,10
+"Linear SVM, unweighted",0.6634423897581792,0.7052910052910054,0.6688879736248157,cathedrals_to_castles_keep_pyramids,10
+"Linear SVM, class weighted",0.6527738264580369,0.6990476190476189,0.6530637145999465,cathedrals_to_castles_keep_pyramids,10
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,11
+"Logistic regression, unweighted",0.628,0.6277777777777778,0.6010407858395475,all_classes_to_minimum,11
+"Logistic regression, class weighted",0.6276923076923077,0.625925925925926,0.6047166232460349,all_classes_to_minimum,11
+"Linear SVM, unweighted",0.6283076923076922,0.6277777777777778,0.597368123114926,all_classes_to_minimum,11
+"Linear SVM, class weighted",0.636,0.6342592592592593,0.6086039820745703,all_classes_to_minimum,11
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,11
+"Logistic regression, unweighted",0.5829302987197724,0.6343915343915343,0.5996849067373557,cathedrals_to_castles_keep_pyramids,11
+"Logistic regression, class weighted",0.5721194879089616,0.6298412698412699,0.5775293452175011,cathedrals_to_castles_keep_pyramids,11
+"Linear SVM, unweighted",0.6147937411095306,0.6676190476190476,0.6269286800808408,cathedrals_to_castles_keep_pyramids,11
+"Linear SVM, class weighted",0.5934566145092461,0.6485714285714286,0.5984746751203522,cathedrals_to_castles_keep_pyramids,11
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,12
+"Logistic regression, unweighted",0.6661538461538461,0.6685185185185185,0.6382945845975863,all_classes_to_minimum,12
+"Logistic regression, class weighted",0.6664615384615384,0.6675925925925925,0.6372991094844641,all_classes_to_minimum,12
+"Linear SVM, unweighted",0.7058461538461538,0.7064814814814814,0.6812544134397681,all_classes_to_minimum,12
+"Linear SVM, class weighted",0.7138461538461538,0.7138888888888888,0.6889617158839128,all_classes_to_minimum,12
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,12
+"Logistic regression, unweighted",0.6364153627311522,0.6771428571428572,0.6412871277019203,cathedrals_to_castles_keep_pyramids,12
+"Logistic regression, class weighted",0.6359886201991466,0.6850793650793651,0.6383951715635874,cathedrals_to_castles_keep_pyramids,12
+"Linear SVM, unweighted",0.6418207681365576,0.6819047619047619,0.6430653361667854,cathedrals_to_castles_keep_pyramids,12
+"Linear SVM, class weighted",0.6576102418207681,0.7041269841269842,0.6595768000115826,cathedrals_to_castles_keep_pyramids,12
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,13
+"Logistic regression, unweighted",0.659076923076923,0.662037037037037,0.6329015289262967,all_classes_to_minimum,13
+"Logistic regression, class weighted",0.6436923076923077,0.6453703703703704,0.6152023979918717,all_classes_to_minimum,13
+"Linear SVM, unweighted",0.6744615384615386,0.6768518518518519,0.6542306092027455,all_classes_to_minimum,13
+"Linear SVM, class weighted",0.6667692307692308,0.6685185185185185,0.645897275869412,all_classes_to_minimum,13
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,13
+"Logistic regression, unweighted",0.6480796586059744,0.6938624338624338,0.653326440022326,cathedrals_to_castles_keep_pyramids,13
+"Logistic regression, class weighted",0.6318634423897581,0.6822222222222222,0.6350710556217802,cathedrals_to_castles_keep_pyramids,13
+"Linear SVM, unweighted",0.6588904694167852,0.706031746031746,0.6648933170130071,cathedrals_to_castles_keep_pyramids,13
+"Linear SVM, class weighted",0.6428165007112375,0.692063492063492,0.6450189551533718,cathedrals_to_castles_keep_pyramids,13
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,14
+"Logistic regression, unweighted",0.6507692307692308,0.65,0.6196005410711293,all_classes_to_minimum,14
+"Logistic regression, class weighted",0.6507692307692308,0.65,0.6196005410711293,all_classes_to_minimum,14
+"Linear SVM, unweighted",0.6584615384615384,0.6592592592592592,0.6278484043189925,all_classes_to_minimum,14
+"Linear SVM, class weighted",0.6584615384615384,0.6592592592592592,0.6278484043189925,all_classes_to_minimum,14
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,14
+"Logistic regression, unweighted",0.6517780938833571,0.699047619047619,0.6587753266593845,cathedrals_to_castles_keep_pyramids,14
+"Logistic regression, class weighted",0.630583214793741,0.6809523809523809,0.629262245624097,cathedrals_to_castles_keep_pyramids,14
+"Linear SVM, unweighted",0.6517780938833571,0.6993650793650794,0.6595196033536863,cathedrals_to_castles_keep_pyramids,14
+"Linear SVM, class weighted",0.6304409672830725,0.6806349206349206,0.6323855825167668,cathedrals_to_castles_keep_pyramids,14
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,15
+"Logistic regression, unweighted",0.6821538461538461,0.6777777777777777,0.6461539090822979,all_classes_to_minimum,15
+"Logistic regression, class weighted",0.6821538461538461,0.6777777777777777,0.6461539090822979,all_classes_to_minimum,15
+"Linear SVM, unweighted",0.6744615384615384,0.6712962962962963,0.6393613793613794,all_classes_to_minimum,15
+"Linear SVM, class weighted",0.6667692307692308,0.662962962962963,0.6294468494468494,all_classes_to_minimum,15
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,15
+"Logistic regression, unweighted",0.6201991465149359,0.6569312169312169,0.6218677304813061,cathedrals_to_castles_keep_pyramids,15
+"Logistic regression, class weighted",0.6251778093883357,0.6725925925925926,0.6253453358235967,cathedrals_to_castles_keep_pyramids,15
+"Linear SVM, unweighted",0.6310099573257468,0.6658201058201059,0.6311738103381106,cathedrals_to_castles_keep_pyramids,15
+"Linear SVM, class weighted",0.6465149359886202,0.6933333333333332,0.6464175048565434,cathedrals_to_castles_keep_pyramids,15
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,16
+"Logistic regression, unweighted",0.6821538461538462,0.6805555555555556,0.6621148150095518,all_classes_to_minimum,16
+"Logistic regression, class weighted",0.6821538461538462,0.6805555555555556,0.6621148150095518,all_classes_to_minimum,16
+"Linear SVM, unweighted",0.6821538461538462,0.6805555555555556,0.6619366924784882,all_classes_to_minimum,16
+"Linear SVM, class weighted",0.6821538461538462,0.6805555555555556,0.6619366924784882,all_classes_to_minimum,16
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,16
+"Logistic regression, unweighted",0.6206258890469417,0.6664550264550264,0.6299747421586502,cathedrals_to_castles_keep_pyramids,16
+"Logistic regression, class weighted",0.6152204836415363,0.6669841269841269,0.6181203850673722,cathedrals_to_castles_keep_pyramids,16
+"Linear SVM, unweighted",0.6203413940256046,0.671111111111111,0.6284848669848669,cathedrals_to_castles_keep_pyramids,16
+"Linear SVM, class weighted",0.6096728307254623,0.6619047619047619,0.6131852904578969,cathedrals_to_castles_keep_pyramids,16
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,17
+"Logistic regression, unweighted",0.6901538461538461,0.6888888888888889,0.6699615067134248,all_classes_to_minimum,17
+"Logistic regression, class weighted",0.6824615384615385,0.6796296296296296,0.6581053889749542,all_classes_to_minimum,17
+"Linear SVM, unweighted",0.6901538461538461,0.6888888888888889,0.6670299502524567,all_classes_to_minimum,17
+"Linear SVM, class weighted",0.6901538461538461,0.6888888888888889,0.6670299502524567,all_classes_to_minimum,17
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,17
+"Logistic regression, unweighted",0.5926031294452347,0.6443386243386243,0.6001170953092412,cathedrals_to_castles_keep_pyramids,17
+"Logistic regression, class weighted",0.5978662873399715,0.6514285714285714,0.6014695972766938,cathedrals_to_castles_keep_pyramids,17
+"Linear SVM, unweighted",0.6246088193456615,0.6746031746031745,0.6301407770390325,cathedrals_to_castles_keep_pyramids,17
+"Linear SVM, class weighted",0.619203413940256,0.6698412698412698,0.6236849140614303,cathedrals_to_castles_keep_pyramids,17
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,18
+"Logistic regression, unweighted",0.6507692307692309,0.6509259259259259,0.6324811374842334,all_classes_to_minimum,18
+"Logistic regression, class weighted",0.6584615384615385,0.6583333333333334,0.6402495781938506,all_classes_to_minimum,18
+"Linear SVM, unweighted",0.6741538461538462,0.6722222222222223,0.6490831566094725,all_classes_to_minimum,18
+"Linear SVM, class weighted",0.6821538461538462,0.6796296296296296,0.654602082128398,all_classes_to_minimum,18
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,18
+"Logistic regression, unweighted",0.6519203413940255,0.6855026455026454,0.6634598093201218,cathedrals_to_castles_keep_pyramids,18
+"Logistic regression, class weighted",0.6628733997155049,0.7088888888888889,0.6712366793548308,cathedrals_to_castles_keep_pyramids,18
+"Linear SVM, unweighted",0.6522048364153628,0.6940740740740741,0.6628351347011067,cathedrals_to_castles_keep_pyramids,18
+"Linear SVM, class weighted",0.6576102418207681,0.7044444444444444,0.6657730778222637,cathedrals_to_castles_keep_pyramids,18
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,19
+"Logistic regression, unweighted",0.636,0.637962962962963,0.6057798127798127,all_classes_to_minimum,19
+"Logistic regression, class weighted",0.628,0.6296296296296297,0.5956760276760277,all_classes_to_minimum,19
+"Linear SVM, unweighted",0.6673846153846155,0.6675925925925925,0.640896538732452,all_classes_to_minimum,19
+"Linear SVM, class weighted",0.6673846153846155,0.6675925925925925,0.640896538732452,all_classes_to_minimum,19
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,19
+"Logistic regression, unweighted",0.6261735419630157,0.6625132275132276,0.6344274954782202,cathedrals_to_castles_keep_pyramids,19
+"Logistic regression, class weighted",0.6098150782361309,0.6544444444444444,0.612835748740377,cathedrals_to_castles_keep_pyramids,19
+"Linear SVM, unweighted",0.631578947368421,0.6699206349206349,0.6373534074294723,cathedrals_to_castles_keep_pyramids,19
+"Linear SVM, class weighted",0.6153627311522049,0.6556349206349206,0.6163259904020553,cathedrals_to_castles_keep_pyramids,19
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,20
+"Logistic regression, unweighted",0.6446153846153846,0.6444444444444444,0.6209786268481922,all_classes_to_minimum,20
+"Logistic regression, class weighted",0.6366153846153846,0.6361111111111111,0.6103581362277015,all_classes_to_minimum,20
+"Linear SVM, unweighted",0.6599999999999999,0.6601851851851852,0.6362167220862873,all_classes_to_minimum,20
+"Linear SVM, class weighted",0.6599999999999999,0.6601851851851852,0.6362167220862873,all_classes_to_minimum,20
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,20
+"Logistic regression, unweighted",0.6580369843527738,0.6975661375661375,0.668181115322229,cathedrals_to_castles_keep_pyramids,20
+"Logistic regression, class weighted",0.6364153627311522,0.684126984126984,0.6343489770266382,cathedrals_to_castles_keep_pyramids,20
+"Linear SVM, unweighted",0.6524893314366998,0.6928042328042328,0.6588317737275838,cathedrals_to_castles_keep_pyramids,20
+"Linear SVM, class weighted",0.6470839260312944,0.6933333333333332,0.6468739842425579,cathedrals_to_castles_keep_pyramids,20
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,21
+"Logistic regression, unweighted",0.7123076923076923,0.7101851851851853,0.6854877910760264,all_classes_to_minimum,21
+"Logistic regression, class weighted",0.6969230769230769,0.6935185185185185,0.660910930028577,all_classes_to_minimum,21
+"Linear SVM, unweighted",0.6892307692307692,0.6861111111111111,0.656852332394128,all_classes_to_minimum,21
+"Linear SVM, class weighted",0.6892307692307692,0.6861111111111111,0.656852332394128,all_classes_to_minimum,21
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,21
+"Logistic regression, unweighted",0.6354196301564723,0.682116402116402,0.6471100717077729,cathedrals_to_castles_keep_pyramids,21
+"Logistic regression, class weighted",0.6246088193456615,0.6755555555555556,0.6317265637277737,cathedrals_to_castles_keep_pyramids,21
+"Linear SVM, unweighted",0.6785206258890469,0.7225396825396825,0.6882080879337089,cathedrals_to_castles_keep_pyramids,21
+"Linear SVM, class weighted",0.6677098150782361,0.7133333333333333,0.6743695170348788,cathedrals_to_castles_keep_pyramids,21
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,22
+"Logistic regression, unweighted",0.6424615384615384,0.6398148148148148,0.6081314973296398,all_classes_to_minimum,22
+"Logistic regression, class weighted",0.6504615384615384,0.6472222222222223,0.6162134480586493,all_classes_to_minimum,22
+"Linear SVM, unweighted",0.6501538461538461,0.6481481481481481,0.621259839575629,all_classes_to_minimum,22
+"Linear SVM, class weighted",0.6501538461538461,0.6481481481481481,0.621259839575629,all_classes_to_minimum,22
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,22
+"Logistic regression, unweighted",0.6527738264580369,0.6993650793650794,0.6579536368933774,cathedrals_to_castles_keep_pyramids,22
+"Logistic regression, class weighted",0.631578947368421,0.680952380952381,0.6321898328872342,cathedrals_to_castles_keep_pyramids,22
+"Linear SVM, unweighted",0.6475106685633001,0.6949206349206349,0.6529967848350762,cathedrals_to_castles_keep_pyramids,22
+"Linear SVM, class weighted",0.6368421052631579,0.6853968253968253,0.6381385508359521,cathedrals_to_castles_keep_pyramids,22
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,23
+"Logistic regression, unweighted",0.6123076923076923,0.612037037037037,0.5777211762378003,all_classes_to_minimum,23
+"Logistic regression, class weighted",0.6123076923076923,0.612037037037037,0.5777211762378003,all_classes_to_minimum,23
+"Linear SVM, unweighted",0.627076923076923,0.6314814814814815,0.5919970620307139,all_classes_to_minimum,23
+"Linear SVM, class weighted",0.6273846153846153,0.6305555555555555,0.5934535690599764,all_classes_to_minimum,23
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,23
+"Logistic regression, unweighted",0.6157894736842104,0.6604761904761905,0.6233106503321395,cathedrals_to_castles_keep_pyramids,23
+"Logistic regression, class weighted",0.5994310099573258,0.6536507936507936,0.6000481163199803,cathedrals_to_castles_keep_pyramids,23
+"Linear SVM, unweighted",0.642674253200569,0.6917460317460317,0.6495803611593085,cathedrals_to_castles_keep_pyramids,23
+"Linear SVM, class weighted",0.6210526315789474,0.6726984126984127,0.6211789972479627,cathedrals_to_castles_keep_pyramids,23
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,24
+"Logistic regression, unweighted",0.5975384615384616,0.5981481481481481,0.5535437557611471,all_classes_to_minimum,24
+"Logistic regression, class weighted",0.5898461538461539,0.5898148148148148,0.5417238018359299,all_classes_to_minimum,24
+"Linear SVM, unweighted",0.6129230769230769,0.6138888888888888,0.5595169999232457,all_classes_to_minimum,24
+"Linear SVM, class weighted",0.6206153846153846,0.6212962962962962,0.5728503332565791,all_classes_to_minimum,24
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,24
+"Logistic regression, unweighted",0.5948790896159318,0.6442592592592593,0.6004862336322413,cathedrals_to_castles_keep_pyramids,24
+"Logistic regression, class weighted",0.5893314366998578,0.6457142857142857,0.5901793860940094,cathedrals_to_castles_keep_pyramids,24
+"Linear SVM, unweighted",0.621479374110953,0.6736507936507936,0.6297155536635797,cathedrals_to_castles_keep_pyramids,24
+"Linear SVM, class weighted",0.6055476529160739,0.6599999999999999,0.6063125173270101,cathedrals_to_castles_keep_pyramids,24
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,25
+"Logistic regression, unweighted",0.6818461538461538,0.6814814814814815,0.6619259804921401,all_classes_to_minimum,25
+"Logistic regression, class weighted",0.6741538461538461,0.6731481481481482,0.6530806645880006,all_classes_to_minimum,25
+"Linear SVM, unweighted",0.6661538461538461,0.6657407407407407,0.6426453591526953,all_classes_to_minimum,25
+"Linear SVM, class weighted",0.6661538461538461,0.6657407407407407,0.6426453591526953,all_classes_to_minimum,25
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,25
+"Logistic regression, unweighted",0.6577524893314367,0.6982010582010582,0.6663292332000084,cathedrals_to_castles_keep_pyramids,25
+"Logistic regression, class weighted",0.6524893314366998,0.699047619047619,0.6559065973358826,cathedrals_to_castles_keep_pyramids,25
+"Linear SVM, unweighted",0.6684210526315788,0.7100529100529099,0.6768163764929592,cathedrals_to_castles_keep_pyramids,25
+"Linear SVM, class weighted",0.6576102418207681,0.7031746031746031,0.6604765476069824,cathedrals_to_castles_keep_pyramids,25
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,26
+"Logistic regression, unweighted",0.6510769230769231,0.6481481481481481,0.6215701386502301,all_classes_to_minimum,26
+"Logistic regression, class weighted",0.6587692307692309,0.6555555555555557,0.629323496403588,all_classes_to_minimum,26
+"Linear SVM, unweighted",0.6356923076923076,0.6333333333333333,0.5938595373606816,all_classes_to_minimum,26
+"Linear SVM, class weighted",0.6356923076923076,0.6333333333333333,0.5938595373606816,all_classes_to_minimum,26
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,26
+"Logistic regression, unweighted",0.631578947368421,0.673968253968254,0.6398975394767821,cathedrals_to_castles_keep_pyramids,26
+"Logistic regression, class weighted",0.6204836415362731,0.6726984126984127,0.6234661399089185,cathedrals_to_castles_keep_pyramids,26
+"Linear SVM, unweighted",0.6207681365576103,0.6644444444444445,0.6279089648438658,cathedrals_to_castles_keep_pyramids,26
+"Linear SVM, class weighted",0.6258890469416786,0.6774603174603175,0.6302302817954992,cathedrals_to_castles_keep_pyramids,26
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,27
+"Logistic regression, unweighted",0.6670769230769231,0.6694444444444445,0.6417020062093423,all_classes_to_minimum,27
+"Logistic regression, class weighted",0.6670769230769231,0.6694444444444445,0.6417020062093423,all_classes_to_minimum,27
+"Linear SVM, unweighted",0.6670769230769231,0.6703703703703703,0.6406655178327004,all_classes_to_minimum,27
+"Linear SVM, class weighted",0.6747692307692308,0.6777777777777778,0.6492276093359685,all_classes_to_minimum,27
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,27
+"Logistic regression, unweighted",0.6036984352773827,0.6499470899470898,0.6116068980161934,cathedrals_to_castles_keep_pyramids,27
+"Logistic regression, class weighted",0.5981507823613087,0.6507936507936508,0.5973986289021351,cathedrals_to_castles_keep_pyramids,27
+"Linear SVM, unweighted",0.6253200568990043,0.6683597883597884,0.6259189931326443,cathedrals_to_castles_keep_pyramids,27
+"Linear SVM, class weighted",0.6197724039829303,0.6692063492063491,0.6138801021707938,cathedrals_to_castles_keep_pyramids,27
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,28
+"Logistic regression, unweighted",0.6510769230769231,0.6527777777777778,0.6257146545691439,all_classes_to_minimum,28
+"Logistic regression, class weighted",0.6587692307692308,0.6601851851851851,0.6340479879024772,all_classes_to_minimum,28
+"Linear SVM, unweighted",0.6593846153846155,0.6611111111111111,0.6357411095955988,all_classes_to_minimum,28
+"Linear SVM, class weighted",0.6593846153846155,0.6611111111111111,0.6357411095955988,all_classes_to_minimum,28
+Majority-class baseline,0.37439544807965863,0.3333333333333333,0.18159879336349927,cathedrals_to_castles_keep_pyramids,28
+"Logistic regression, unweighted",0.6470839260312944,0.6916402116402117,0.656557758971552,cathedrals_to_castles_keep_pyramids,28
+"Logistic regression, class weighted",0.6470839260312944,0.6942857142857143,0.6507724621057953,cathedrals_to_castles_keep_pyramids,28
+"Linear SVM, unweighted",0.641678520625889,0.6895238095238094,0.6482642500113764,cathedrals_to_castles_keep_pyramids,28
+"Linear SVM, class weighted",0.6415362731152204,0.6892063492063492,0.6440325353658687,cathedrals_to_castles_keep_pyramids,28
+Majority-class baseline,0.31015384615384617,0.3333333333333333,0.1578134284016637,all_classes_to_minimum,29
+"Logistic regression, unweighted",0.6747692307692308,0.6731481481481482,0.6514616714953234,all_classes_to_minimum,29
+"Logistic regression, class weighted",0.6747692307692308,0.6731481481481482,0.6514616714953234,all_classes_to_minimum,29
+"Linear SVM, unweighted",0.6901538461538461,0.687037037037037,0.6638617333071499,all_classes_to_minimum,29
+"Linear SVM, class weighted",0.6901538461538461,0.687037037037037,0.6638617333071499,all_classes_to_minimum,29
+Majority-class baseline,0.38492176386913235,0.3333333333333333,0.18527561968183498,cathedrals_to_castles_keep_pyramids,29
+"Logistic regression, unweighted",0.6091038406827881,0.6553439153439153,0.6172502335765194,cathedrals_to_castles_keep_pyramids,29
+"Logistic regression, class weighted",0.5930298719772404,0.6466666666666667,0.5965916205913855,cathedrals_to_castles_keep_pyramids,29
+"Linear SVM, unweighted",0.6199146514935989,0.6648677248677248,0.6276157103852584,cathedrals_to_castles_keep_pyramids,29
+"Linear SVM, class weighted",0.6200568990042674,0.6704761904761904,0.6238199851707937,cathedrals_to_castles_keep_pyramids,29
