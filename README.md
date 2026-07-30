@@ -453,7 +453,7 @@ The manuscript is currently being prepared for submission. A formal citation and
 Until then, please cite the repository and manuscript title together with the authors:
 
 ``` text
-Attri, Jeevesh, and Pascal Wallisch.
+Jeevesh Attri and Pascal Wallisch.
 “Monumental Power and Quantitative Separability: Classifying Cathedrals,
 Castles, and Pyramids as Physical Embodiments of Authority.”
 Research code and data repository.
